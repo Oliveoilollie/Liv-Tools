@@ -16,7 +16,7 @@
 - simple timer
 - to-do program?
 
-## to do
+## To-Do
 - actually create a program
 - find a opensource license i like
 

@@ -14,7 +14,11 @@
 - (prolly comes first) better tools for ls and cd
 - ed clone?
 - simple timer
-- to-do program? 
+- to-do program?
+
+## to do
+- actually create a program
+- find a opensource license i like
 
 ## where is applications?
 
